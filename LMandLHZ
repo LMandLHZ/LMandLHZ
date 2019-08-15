@@ -5,6 +5,6 @@
   <title>在github上搭建LMandLHZ的网站</title>
 </head>
 <body>
-    这是我们的第一个网站
+   <h1 style=text-align: center;"> 这是我们的第一个网站</h1>
 </body>
 </html>
